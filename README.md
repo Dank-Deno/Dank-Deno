@@ -5,5 +5,5 @@ currently learning: Python,C++,C#
 Python - ?
 C++ - ?
 C# - ?
-currently known for creating solara
+currently known ?
 -----------------------------------------
