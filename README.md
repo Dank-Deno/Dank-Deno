@@ -13,3 +13,4 @@ I'm a Upcoming Devloper and will make a lot of things and will be going by Optic
 
 ![Logo](https://media.discordapp.net/attachments/1245083047758532608/1251017310400020520/TransparentOpticX.png?ex=666d0c29&is=666bbaa9&hm=1a44b59e85db4696cc45d132edc338b9d7ab92400637d3c123a093c51a4eba3b&=&format=webp&quality=lossless)
 
+![QRCode](https://github.com/Dank-Deno/Dank-Deno/assets/166599062/8f7b6582-550f-4610-8cbe-f09c15bd8692)
